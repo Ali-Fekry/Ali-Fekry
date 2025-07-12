@@ -6,7 +6,7 @@
 
 ## 🔧 Skills
 **Languages:** C, C++, Python, MATLAB  
-**Hardware:** AVR, NodeMCU, Raspberry Pi, Arduino  
+**Hardware:** AVR, ARM, NodeMCU, Raspberry Pi, Arduino  
 **Protocols:** UART, SPI, I2C, MQTT  
 **Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer
 
