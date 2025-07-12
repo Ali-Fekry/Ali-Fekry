@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali Fekry Mohamed
 
-<!--
-**Ali-Fekry/Ali-Fekry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics and Communications Engineering student at MIU  
+🔧 Embedded Systems | IoT | AI | Cloud | Software  
+📍 Based in Cairo, Egypt
 
-Here are some ideas to get you started:
+## 🔧 Skills
+**Languages:** C, C++, Python, MATLAB  
+**Hardware:** AVR, NodeMCU, Raspberry Pi, Arduino  
+**Protocols:** UART, SPI, I2C, MQTT  
+**Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔹 [Smart Anti-Collision System](#) – Real-time marine obstacle detection using sensors, AI, and Firebase  
+- 🔹 [Clinic Management System in C](#) – Patient record and time-slot booking system using linked lists  
+- 🔹 [Real-Time Clock System](#) – Embedded time/date system with alarm, stopwatch, countdown
+
+## 📫 Contact Me
+📧 aly.fekry10@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-fekry)  
