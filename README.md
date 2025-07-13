@@ -12,7 +12,7 @@
 
 ## 📂 Featured Projects
 - 🔹 [Smart Anti-Collision System](#) – Real-time marine obstacle detection using sensors, AI, and Firebase  
-- 🔹 [Clinic Management System in C](#) – Patient record and time-slot booking system using linked lists  
+- 🔹 [Clinic Management System in C](#) – Patient record and time-slot booking system.  
 - 🔹 [Real-Time Clock System](#) – Embedded time/date system with alarm, stopwatch, countdown
 
 ## 📫 Contact Me
