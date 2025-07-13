@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Fekry Mohamed
 
-🎓 Final-year Electronics and Communications Engineering student at MIU  
+🎓 Bachelors degree in Electronics and Communications Engineering student at MIU  
 🔧 Embedded Systems | IoT | AI | Cloud | Software  
 📍 Based in Cairo, Egypt
 
