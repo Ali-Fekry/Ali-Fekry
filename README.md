@@ -11,7 +11,7 @@
 **Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer
 
 ## 📂 Featured Projects
-- 🔹 [Smart Anti-Collision System](#) – Real-time marine obstacle detection using sensors, AI, and Firebase  
+- 🔹 [Smart Anti-Collision System for Maritime Vessels](#) – Real-time marine obstacle detection using sensors, AI, and Firebase  
 - 🔹 [Clinic Management System in C](#) – Patient record and time-slot booking system.  
 - 🔹 [Real-Time Clock System](#) – Embedded time/date system with alarm, stopwatch, countdown
 
