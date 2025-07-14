@@ -13,7 +13,7 @@
 ## 📂 Featured Projects
 - 🔹 [Smart Anti-Collision System for Maritime Vessels](#) – Real-time marine obstacle detection using sensors, AI, and Firebase  
 - 🔹 [Clinic-Management-System](https://github.com/Ali-Fekry/Clinic-Management-System) – Patient record and time-slot booking system.  
-- 🔹 [Real-Time Clock System](#) – Embedded time/date system with alarm, stopwatch, countdown
+- 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, countdown
 
 ## 📫 Contact Me
 📧 aly.fekry10@gmail.com  
