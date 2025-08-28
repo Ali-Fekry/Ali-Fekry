@@ -16,7 +16,7 @@
 - 🔹 [Clinic-Management-System](https://github.com/Ali-Fekry/Clinic-Management-System) – Patient record and time-slot booking system.  
 - 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, countdown.
 - 🔹 [ATM System](https://github.com/Ali-Fekry/ATM-system-using-linked-lists-and-CSV-files) - C-based ATM system entirely implemented using linked lists and CSV files.
-- 🔹 [Elevvo Internship Projects](#) – Includes Student Score Prediction, Loan Approval Prediction, and Traffic Sign Recognition (Machine Learning & AI tasks).
+- 🔹 [Elevvo Internship Projects](#) – Includes Student Score Prediction, Loan Approval Prediction, and Traffic Sign Recognition
 
 ## 📫 Contact Me
 📧 aly.fekry10@gmail.com  
