@@ -8,8 +8,8 @@
 **Languages:** C, C++, Python, MATLAB  
 **Hardware:** AVR, ARM, NodeMCU, Raspberry Pi, Arduino  
 **Protocols:** UART, SPI, I2C, MQTT  
-**Machine Learning & AI:** scikit-learn, pandas, matplotlib, computer vision, predictive modeling
 **Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer
+**Machine Learning & AI:** scikit-learn, pandas, matplotlib, computer vision, predictive modeling
 
 ## 📂 Featured Projects
 - 🔹 [SeaEyes: Smart Anti-Collision System for Maritime Vessels](https://github.com/Ali-Fekry/SeaEyes-Smart-Anti-Collision-System-for-Maritime-Vessels) – Real-time marine obstacle detection. 
