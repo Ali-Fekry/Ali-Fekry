@@ -8,7 +8,7 @@
 **Languages:** C, C++, Python, MATLAB  
 **Hardware:** AVR, ARM, NodeMCU, Raspberry Pi, Arduino  
 **Protocols:** UART, SPI, I2C, MQTT  
-**Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer
+**Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer  
 **Machine Learning & AI:** scikit-learn, pandas, matplotlib, computer vision, predictive modeling
 
 ## 📂 Featured Projects
