@@ -17,7 +17,7 @@
 - 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, countdown.
 - 🔹 [ATM System](https://github.com/Ali-Fekry/ATM-system-using-linked-lists-and-CSV-files) - C-based ATM system entirely implemented using linked lists and CSV files.
 - 🔹 [Elevvo Internship Projects](https://github.com/Ali-Fekry/Elevvo-Internship-Projects) – Includes Student Score Prediction, Loan Approval Prediction, and Traffic Sign Recognition
-- 🔹 [Coding Samurai Internship Projects]() – Simple Calculator & Weather APP using API and python
+- 🔹 [Coding Samurai Internship Projects](https://github.com/Ali-Fekry/CODING-SAMURAI-INTERNSHIP-TASK) – Simple Calculator & Weather APP using API and python
 
 ## 📫 Contact Me
 📧 aly.fekry10@gmail.com  
