@@ -1,24 +1,39 @@
 # 👋 Hi, I'm Ali Fekry Mohamed
 
-🎓 Bachelors degree in Electronics and Communications Engineering from MIU  
-🔧 Embedded Systems | IoT | AI | Cloud | Software  
-📍 Based in Cairo, Egypt
+🎓 Bachelor’s degree in Electronics and Communications Engineering – MIU  
+🔧 Engineering Background | Embedded Systems | IoT | Software | Entry-Level Cybersecurity  
+📍 Cairo, Egypt
 
-## 🔧 Skills
-**Languages:** C, C++, Python, MATLAB  
-**Hardware:** AVR, ARM, NodeMCU, Raspberry Pi, Arduino  
-**Protocols:** UART, SPI, I2C, MQTT  
-**Cloud & Tools:** Firebase, Blynk, Node-RED, Bash, Cisco Packet Tracer  
-**Machine Learning & AI:** scikit-learn, pandas, matplotlib, computer vision, predictive modeling
+---
+
+## 🔧 Technical Skills
+
+**Programming & Scripting:**  
+C, C++, Python, MATLAB, Bash  
+**Embedded Systems & Hardware:**  
+AVR, ARM, Arduino, NodeMCU, Raspberry Pi  
+**Communication Protocols:**  
+UART, SPI, I2C, MQTT  
+**Cloud & Tools:**  
+Firebase, Blynk, Node-RED, Git, Linux, Cisco Packet Tracer  
+**Data, AI & ML:**  
+Python (pandas, matplotlib, scikit-learn), Computer Vision, Predictive Modeling  
+
+---
 
 ## 📂 Featured Projects
-- 🔹 [SeaEyes: Smart Anti-Collision System for Maritime Vessels](https://github.com/Ali-Fekry/SeaEyes-Smart-Anti-Collision-System-for-Maritime-Vessels) – Real-time maritime obstacle detection. 
-- 🔹 [Clinic-Management-System](https://github.com/Ali-Fekry/Clinic-Management-System) – Patient record and time-slot booking system.  
-- 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, countdown.
-- 🔹 [ATM System](https://github.com/Ali-Fekry/ATM-system-using-linked-lists-and-CSV-files) - C-based ATM system entirely implemented using linked lists and CSV files.
-- 🔹 [Elevvo Internship Projects](https://github.com/Ali-Fekry/Elevvo-Internship-Projects) – Includes Student Score Prediction, Loan Approval Prediction, and Traffic Sign Recognition
-- 🔹 [Coding Samurai Internship Projects](https://github.com/Ali-Fekry/CODING-SAMURAI-INTERNSHIP-TASK) – Simple Calculator & Weather APP using API and python
 
-## 📫 Contact Me
-📧 aly.fekry10@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-fekry)  
+- 🔹 [SeaEyes: Smart Anti-Collision System for Maritime Vessels](https://github.com/Ali-Fekry/SeaEyes-Smart-Anti-Collision-System-for-Maritime-Vessels) – Real-time maritime obstacle detection system.
+- 🔹 [Linux SSH Brute-Force Detection](https://github.com/Ali-Fekry/linux-ssh-bruteforce-detection) – SOC project detecting SSH brute-force attacks through Linux log analysis with MITRE ATT&CK mapping and incident reporting.
+- 🔹 [Clinic Management System](https://github.com/Ali-Fekry/Clinic-Management-System) – Patient record management and appointment scheduling system.
+- 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, and countdown timer.
+- 🔹 [ATM System](https://github.com/Ali-Fekry/ATM-system-using-linked-lists-and-CSV-files) – C-based ATM system implemented using linked lists and CSV files.
+- 🔹 [Elevvo Internship Projects](https://github.com/Ali-Fekry/Elevvo-Internship-Projects) – Student score prediction, loan approval prediction, and traffic sign recognition.
+- 🔹 [Coding Samurai Internship Projects](https://github.com/Ali-Fekry/CODING-SAMURAI-INTERNSHIP-TASK) – Python calculator and weather application using public APIs.
+
+---
+
+## 📫 Contact
+
+📧 Email: aly.fekry10@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ali-fekry
