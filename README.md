@@ -21,6 +21,7 @@
 
 - 🔹 [SeaEyes: Smart Anti-Collision System for Maritime Vessels](https://github.com/Ali-Fekry/SeaEyes-Smart-Anti-Collision-System-for-Maritime-Vessels) – Real-time maritime obstacle detection system.
 - 🔹 [Linux SSH Brute-Force Detection](https://github.com/Ali-Fekry/linux-ssh-bruteforce-detection) – SOC project detecting SSH brute-force attacks through Linux log analysis with MITRE ATT&CK mapping and incident reporting.
+- 🔹 [Phishing Incident Investigation & Response](https://github.com/Ali-Fekry/phishing-incident-investigation) – SOC-style investigation of a phishing attack leading to account compromise, including email analysis, log review, MITRE ATT&CK mapping, and incident response actions.
 - 🔹 [Clinic Management System](https://github.com/Ali-Fekry/Clinic-Management-System) – Patient record management and appointment scheduling system.
 - 🔹 [Real-Time Clock System](https://github.com/Ali-Fekry/Real-Time-Clock-System) – Embedded time/date system with alarm, stopwatch, and countdown timer.
 - 🔹 [ATM System](https://github.com/Ali-Fekry/ATM-system-using-linked-lists-and-CSV-files) – C-based ATM system implemented using linked lists and CSV files.
