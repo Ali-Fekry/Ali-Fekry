@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ali Fekry Mohamed
 
 🎓 Bachelor’s degree in Electronics and Communications Engineering – MIU  
-🔧 Engineering Background | Embedded Systems | IoT | Software | Entry-Level Cybersecurity  
+🔧 Engineering Background | Embedded Systems | IoT | AI/ML | Entry-Level Cybersecurity  
 📍 Cairo, Egypt
 
 ---
