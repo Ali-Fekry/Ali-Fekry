@@ -8,16 +8,11 @@
 
 ## 🔧 Technical Skills
 
-**Programming & Scripting:**  
-C, C++, Python, MATLAB, Bash  
-**Embedded Systems & Hardware:**  
-AVR, ARM, Arduino, NodeMCU, Raspberry Pi  
-**Communication Protocols:**  
-UART, SPI, I2C, MQTT  
-**Cloud & Tools:**  
-Firebase, Blynk, Node-RED, Git, Linux, Cisco Packet Tracer  
-**Data, AI & ML:**  
-Python (pandas, matplotlib, scikit-learn), Computer Vision, Predictive Modeling  
+**Programming & Scripting:** C, C++, Python, MATLAB, Bash  
+**Embedded Systems & Hardware:** AVR, ARM, Arduino, NodeMCU, Raspberry Pi  
+**Communication Protocols:** UART, SPI, I2C, MQTT  
+**Cloud & Tools:** Firebase, Blynk, Node-RED, Git, Linux, Cisco Packet Tracer  
+**Data, AI & ML:** Python (pandas, matplotlib, scikit-learn), Computer Vision, Predictive Modeling  
 
 ---
 
